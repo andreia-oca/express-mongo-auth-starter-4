@@ -3,7 +3,7 @@ import { AuthService } from "@genezio/auth";
 import cors from "cors";
 
 const app = express();
-const secret = "Cats are the best!";
+const secret = "Cats are the best ever!";
 
 app.use(cors());
 
